@@ -6,7 +6,7 @@ La ruleta:
 
 2-Coloca tus fichas en la mesa: Una vez que hayas decidido tu apuesta, coloca tus fichas en la mesa en el área correspondiente a tu elección de apuesta. Puedes hacer múltiples apuestas en la misma ronda si lo deseas.
 
-[<img scr = "ruleta-0101.jpg">](https://upload.wikimedia.org/wikipedia/commons/a/a4/13-02-27-spielbank-wiesbaden-by-RalfR-093.jpg)
+<img scr = "ruleta-0101.jpg">
 
 3-Confirma tus apuestas: Antes de que el crupier haga girar la rueda y lance la bola, asegúrate de que todas tus fichas estén colocadas correctamente en la mesa y que estés satisfecho con tus elecciones de apuesta.
 
@@ -14,13 +14,17 @@ La ruleta:
 
 5-Espera el resultado y recoge tus ganancias o pérdidas: Después de que la bola se detenga en un número y color específicos, el crupier anunciará el resultado. Si tus apuestas resultan ganadoras, el crupier te pagará según las probabilidades asociadas a tu tipo de apuesta. Si pierdes, el crupier recolectará tus fichas y estarás listo para la próxima ronda.
 
-
+<img scr = "ruleta2-1.jpeg">
 
 ¿Donde se origino?
 
 Francia: La ruleta moderna se desarrolló en Francia a fines del siglo XVII. El matemático y filósofo Blaise Pascal se cree que contribuyó al desarrollo de la ruleta mientras intentaba crear una máquina de movimiento perpetuo. La primera versión de la ruleta tenía los números del 1 al 36 más el "0", y se conocía como la ruleta francesa.
 
+<img scr = "ruleta-3.jpeg">
+
 Italia: Algunos historiadores sugieren que la ruleta tiene sus raíces en juegos de azar italianos que datan del siglo XV. Se dice que juegos como el "biribi" y el "hoca" fueron precursoras de la ruleta moderna.
+
+<img scr = "ruleta-5.jpeg">
 
 Inglaterra: Existe una teoría que sugiere que la ruleta se basa en juegos de azar ingleses antiguos, como el "Roly-Poly", que era popular en el siglo XVIII. Este juego implicaba una rueda giratoria y apuestas en diferentes compartimentos numerados.
 
