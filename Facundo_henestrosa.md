@@ -6,7 +6,6 @@ La ruleta:
 1- Selecciona tu apuesta: Decide qué tipo de apuesta deseas realizar. Puedes apostar a números individuales, grupos de números, colores (rojo o negro), pares o impares, etc.
 
 2-Coloca tus fichas en la mesa: Una vez que hayas decidido tu apuesta, coloca tus fichas en la mesa en el área correspondiente a tu elección de apuesta. Puedes hacer múltiples apuestas en la misma ronda si lo deseas.
-![image](https://github.com/mateoirustaa/MarkdownGuideBookProject/assets/162722573/90467e50-bbbc-4201-81a2-2f4b1f3ea4a4)
 
 3-Confirma tus apuestas: Antes de que el crupier haga girar la rueda y lance la bola, asegúrate de que todas tus fichas estén colocadas correctamente en la mesa y que estés satisfecho con tus elecciones de apuesta.
 
