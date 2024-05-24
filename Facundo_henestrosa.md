@@ -1,11 +1,12 @@
 La ruleta:
 
-
 ¿Como apostar en la ruleta?
 
 1- Selecciona tu apuesta: Decide qué tipo de apuesta deseas realizar. Puedes apostar a números individuales, grupos de números, colores (rojo o negro), pares o impares, etc.
 
 2-Coloca tus fichas en la mesa: Una vez que hayas decidido tu apuesta, coloca tus fichas en la mesa en el área correspondiente a tu elección de apuesta. Puedes hacer múltiples apuestas en la misma ronda si lo deseas.
+
+[<img scr = "ruleta-0101.jpg">](https://upload.wikimedia.org/wikipedia/commons/a/a4/13-02-27-spielbank-wiesbaden-by-RalfR-093.jpg)
 
 3-Confirma tus apuestas: Antes de que el crupier haga girar la rueda y lance la bola, asegúrate de que todas tus fichas estén colocadas correctamente en la mesa y que estés satisfecho con tus elecciones de apuesta.
 
@@ -13,7 +14,7 @@ La ruleta:
 
 5-Espera el resultado y recoge tus ganancias o pérdidas: Después de que la bola se detenga en un número y color específicos, el crupier anunciará el resultado. Si tus apuestas resultan ganadoras, el crupier te pagará según las probabilidades asociadas a tu tipo de apuesta. Si pierdes, el crupier recolectará tus fichas y estarás listo para la próxima ronda.
 
-![image](https://github.com/mateoirustaa/MarkdownGuideBookProject/assets/162722573/90467e50-bbbc-4201-81a2-2f4b1f3ea4a4)
+
 
 ¿Donde se origino?
 
@@ -31,5 +32,3 @@ https://www.europapress.es/ciencia/laboratorio/noticia-ruleta-tiene-36-numeros-e
 https://definicion.de/ruleta/
 https://www.mendoza.gov.ar/wp-content/uploads/sites/18/2017/10/Informacion-Probabilidades-Pagos-y-tablas-RULETAS-JUEGOS-VIVOS-O-PA%C3%91O-CASINOS-SAPIA-1.pdf
 https://blog.sportium.es/curiosidades-historia-ruleta/#:~:text=Los%20or%C3%ADgenes%20de%20la%20ruleta,los%20hermanos%20Blanc%2C%20en%201843
-
-<html>	
