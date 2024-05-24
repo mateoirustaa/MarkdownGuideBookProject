@@ -13,6 +13,7 @@ La ruleta:
 
 5-Espera el resultado y recoge tus ganancias o pérdidas: Después de que la bola se detenga en un número y color específicos, el crupier anunciará el resultado. Si tus apuestas resultan ganadoras, el crupier te pagará según las probabilidades asociadas a tu tipo de apuesta. Si pierdes, el crupier recolectará tus fichas y estarás listo para la próxima ronda.
 
+![image](https://github.com/mateoirustaa/MarkdownGuideBookProject/assets/162722573/90467e50-bbbc-4201-81a2-2f4b1f3ea4a4)
 
 ¿Donde se origino?
 
@@ -27,3 +28,8 @@ China: Aunque la evidencia es escasa, algunos investigadores sugieren que la rul
 links:
 https://www.roulettesites.org/history/
 https://www.europapress.es/ciencia/laboratorio/noticia-ruleta-tiene-36-numeros-estan-colocados-forma-20160229130911.html
+https://definicion.de/ruleta/
+https://www.mendoza.gov.ar/wp-content/uploads/sites/18/2017/10/Informacion-Probabilidades-Pagos-y-tablas-RULETAS-JUEGOS-VIVOS-O-PA%C3%91O-CASINOS-SAPIA-1.pdf
+https://blog.sportium.es/curiosidades-historia-ruleta/#:~:text=Los%20or%C3%ADgenes%20de%20la%20ruleta,los%20hermanos%20Blanc%2C%20en%201843
+
+<html>	
