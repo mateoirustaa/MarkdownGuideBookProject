@@ -1,6 +1,6 @@
-La ruleta:
+# RULETA:
 
-¿Como apostar en la ruleta?
+## ¿Como apostar en la ruleta?
 
 1- Selecciona tu apuesta: Decide qué tipo de apuesta deseas realizar. Puedes apostar a números individuales, grupos de números, colores (rojo o negro), pares o impares, etc.
 
@@ -18,7 +18,7 @@ La ruleta:
 
 ![ruleta2-1](https://github.com/mateoirustaa/MarkdownGuideBookProject/assets/162722573/bc30d490-43f8-4cac-ae65-af5b5cb5b835)
 
-¿Donde se origino?
+## ¿Donde se origino?
 
 Francia: La ruleta moderna se desarrolló en Francia a fines del siglo XVII. El matemático y filósofo Blaise Pascal se cree que contribuyó al desarrollo de la ruleta mientras intentaba crear una máquina de movimiento perpetuo. La primera versión de la ruleta tenía los números del 1 al 36 más el "0", y se conocía como la ruleta francesa.
 
@@ -34,14 +34,16 @@ Inglaterra: Existe una teoría que sugiere que la ruleta se basa en juegos de az
 
 China: Aunque la evidencia es escasa, algunos investigadores sugieren que la ruleta podría tener orígenes chinos. Se cree que juegos de azar con elementos de ruedas giratorias podrían haber existido en la antigua China, aunque no hay pruebas sólidas que respalden esta teoría.
 
-links:
+## Mas informacion:
 
-1- https://www.roulettesites.org/history/
++ [HISTORIA BREVE DE LA RULETA](https://www.roulettesites.org/history/)
 
-2- https://www.europapress.es/ciencia/laboratorio/noticia-ruleta-tiene-36-numeros-estan-colocados-forma-20160229130911.html
++ [DE DONDE VIENE LA FORMA DE LA RULETA](https://www.europapress.es/ciencia/laboratorio/noticia-ruleta-tiene-36-numeros-estan-colocados-forma-20160229130911.html
+)
 
-3- https://definicion.de/ruleta/
++ [FUNCIONAMIENTO](https://apuestasonline.net/estrategias/trucos-slots-online/#:~:text=11%20trucos%20f%C3%A1ciles%20para%20jugar%20a%20las%20slots,el%20presupuesto%20que%20puedes%20gastar%20...%20More%20items)
 
-4- https://www.mendoza.gov.ar/wp-content/uploads/sites/18/2017/10/Informacion-Probabilidades-Pagos-y-tablas-RULETAS-JUEGOS-VIVOS-O-PA%C3%91O-CASINOS-SAPIA-1.pdf
++ [FUNCIAMIENTO](https://definicion.de/ruleta/)
 
-5- https://blog.sportium.es/curiosidades-historia-ruleta/#:~:text=Los%20or%C3%ADgenes%20de%20la%20ruleta,los%20hermanos%20Blanc%2C%20en%201843
++ [LINEA DE AYUDA PARA LUDOPATAS](https://blog.sportium.es/curiosidades-historia-ruleta/#:~:text=Los%20or%C3%ADgenes%20de%20la%20ruleta,los%20hermanos%20Blanc%2C%20en%201843)
+
