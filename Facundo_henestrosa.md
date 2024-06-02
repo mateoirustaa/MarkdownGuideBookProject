@@ -35,8 +35,13 @@ Inglaterra: Existe una teoría que sugiere que la ruleta se basa en juegos de az
 China: Aunque la evidencia es escasa, algunos investigadores sugieren que la ruleta podría tener orígenes chinos. Se cree que juegos de azar con elementos de ruedas giratorias podrían haber existido en la antigua China, aunque no hay pruebas sólidas que respalden esta teoría.
 
 links:
-https://www.roulettesites.org/history/
-https://www.europapress.es/ciencia/laboratorio/noticia-ruleta-tiene-36-numeros-estan-colocados-forma-20160229130911.html
-https://definicion.de/ruleta/
-https://www.mendoza.gov.ar/wp-content/uploads/sites/18/2017/10/Informacion-Probabilidades-Pagos-y-tablas-RULETAS-JUEGOS-VIVOS-O-PA%C3%91O-CASINOS-SAPIA-1.pdf
-https://blog.sportium.es/curiosidades-historia-ruleta/#:~:text=Los%20or%C3%ADgenes%20de%20la%20ruleta,los%20hermanos%20Blanc%2C%20en%201843
+
+1- https://www.roulettesites.org/history/
+
+2- https://www.europapress.es/ciencia/laboratorio/noticia-ruleta-tiene-36-numeros-estan-colocados-forma-20160229130911.html
+
+3- https://definicion.de/ruleta/
+
+4- https://www.mendoza.gov.ar/wp-content/uploads/sites/18/2017/10/Informacion-Probabilidades-Pagos-y-tablas-RULETAS-JUEGOS-VIVOS-O-PA%C3%91O-CASINOS-SAPIA-1.pdf
+
+5- https://blog.sportium.es/curiosidades-historia-ruleta/#:~:text=Los%20or%C3%ADgenes%20de%20la%20ruleta,los%20hermanos%20Blanc%2C%20en%201843
