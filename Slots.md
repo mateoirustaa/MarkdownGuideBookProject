@@ -4,7 +4,7 @@
 
 Los slots online, también conocidos como tragamonedas en línea, son versiones digitales de las clásicas máquinas tragamonedas que se encuentran en los casinos físicos. Estas versiones electrónicas permiten a los jugadores disfrutar de la experiencia de los slots desde la comodidad de su hogar a través de computadoras, tablets o smartphones.
 
-<img src='slots2.jpg'>
+<img src='./imgs/slots2.jpg'>
 
 ## Cómo Funcionan?
 
@@ -17,7 +17,7 @@ Los slots online, también conocidos como tragamonedas en línea, son versiones 
 3. Símbolos y Temas: 
     Los juegos de slots online suelen tener una variedad de símbolos, que pueden incluir comodines (wilds), scatters y otros íconos especiales que activan bonificaciones. Además, vienen en una gran diversidad de temas, desde frutas clásicas hasta aventuras temáticas y franquicias populares.
 
-<img src='OIP.jpg'>
+<img src='./imgs/OIP.jpg'>
 
 ## Tipos de Slots
 
@@ -69,7 +69,7 @@ Juega solo en casinos online que estén debidamente licenciados y regulados por 
 3. Juego Responsable: 
 Busca sitios que promuevan el juego responsable y ofrezcan herramientas para controlar el gasto, como límites de depósito y autoexclusión.
 
-<img src='bujh.jpg'>
+<img src='./imgs/bujh.jpg'>
 
 ## Conclusión
 

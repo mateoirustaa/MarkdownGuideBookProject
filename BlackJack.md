@@ -4,7 +4,7 @@
 
 El Blackjack, también conocido como 21, es uno de los juegos de cartas más populares en los casinos de todo el mundo. Su origen se remonta al siglo XVII en Francia, y desde entonces ha evolucionado en diversas variantes.
 
-![alt text](220815-Crown-Perth-Gaming-Blackjack-1800x1200px-6.jpg)
+![alt text](./imgs/220815-Crown-Perth-Gaming-Blackjack-1800x1200px-6.jpg)
 
 ## Como se juega
 
@@ -28,7 +28,7 @@ El Blackjack, también conocido como 21, es uno de los juegos de cartas más pop
 
 3. Surrender: Algunos casinos permiten rendirse, lo que significa que el jugador puede abandonar la mano y recuperar la mitad de su apuesta.
 
-![alt text](v4-460px-Win-at-Blackjack-Step-1-Version-3.jpg.jpg)
+![alt text](./imgs/v4-460px-Win-at-Blackjack-Step-1-Version-3.jpg.jpg)
 
 ## Pago de las apuestas
 
@@ -38,11 +38,11 @@ Pago de las apuestas: Si el jugador gana, se le paga el valor de su apuesta seg�
 
 Existe una estrategia básica matemáticamente óptima para jugar al Blackjack, que minimiza la ventaja de la casa. Esta estrategia se basa en las probabilidades de que salgan determinadas cartas y en las reglas específicas de la mesa. Por ejemplo, en qué situaciones pedir carta, plantarse, doblar la apuesta, etc. esta estrategia se puede ver en la siguiente foto.
 
-[<img src = "tabla de blackjack varios mazos 17d.jpg">](https://www.888casino.es/blog/sites/newblog.888casino.es/files/inline-images/tabla%20de%20blackjack%20varios%20mazos%2017d.jpg)
+![alt text](./imgs/tabla%20de%20blackjack%20varios%20mazos%2017d.jpg)
 
 # Beneficios 
 
-![alt text](negocios-finanzas-naipes-y-dolares-americanos-forma-bancaria-concepto-de-juego-2ta7b77.jpg)
+![alt text](./imgs/negocios-finanzas-naipes-y-dolares-americanos-forma-bancaria-concepto-de-juego-2ta7b77.jpg)
 
 ## Mas informacion:
 
